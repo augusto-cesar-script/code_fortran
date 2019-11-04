@@ -13,4 +13,5 @@ Como colocar arquivo no Git pelo unix
 Se for criar uma página, faça:
 
 git init Mytest
+
 cd Mytest
