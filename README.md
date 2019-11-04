@@ -6,7 +6,7 @@ Como colocar arquivo no Git pelo unix
 
 2 - git commit -m "some_message"
 
-3 - git remote add origin https://github.com/user_name/Mytest.git
+3 - git remote add origin https://github.com/augusto-cesar-script/code_fortran
 
 5 - git push origin master
 
